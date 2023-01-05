@@ -16,6 +16,8 @@ public class main {
         OddOcurencesInArray ooia= new OddOcurencesInArray();
         System.out.println(ooia.solution(new int[]{9,3,9,3,9,7,9}));
         }*/
+
+        System.out.println(new FrogJmp().solution(10,85,30));
     }
 
 
